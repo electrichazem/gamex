@@ -1,0 +1,27 @@
+{
+	"name": "CounterSpell",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "nnnyd2xt1la",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r416",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"TiledBg",
+		"Text",
+		"Button"
+	],
+	"used-behaviors": [
+		"Platform",
+		"solid",
+		"Sin"
+	]
+}
